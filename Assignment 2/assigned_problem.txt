@@ -1,0 +1,5 @@
+Problem 1 and Bonus Problem 1 from http://www.cs.ubbcluj.ro/~rlupsa/edu/grafe/lab2.html
+
+1. Write a program that, given a directed graph and two vertices, finds a lowest length path between them, by using a forward breadth-first search from the starting vertex.
+
+1B. Write a program that finds the strongly-connected components of a directed graph in O(n+m) (n=no. of vertices, m=no. of arcs)
