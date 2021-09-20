@@ -1,0 +1,7 @@
+Problem 6 and Bonus Problem  from http://www.cs.ubbcluj.ro/~rlupsa/edu/grafe/lab4.html
+
+6. Write a program that, given an undirected connected graph, constructs a minumal spanning tree using the Prim's algorithm.
+
+2B. Write a program that, given a graph, does the following:
+  -verify if the corresponding graph is a DAG and performs a topological sorting of the activities;
+  -if it is a DAG, finds the number of distinct paths between two given vertices, in O(m+n).
