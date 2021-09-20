@@ -1,0 +1,5 @@
+Problem 2 and Bonus Problem 1 from http://www.cs.ubbcluj.ro/~rlupsa/edu/grafe/lab3.html
+
+2. Write a program that, given a graph with positive costs and two vertices, finds a lowest cost walk between the given vertices, using a "backwards" Dijkstra algorithm (Dijkstra algorithm that searches backwards, from the ending vertex).
+
+1B. Write a program that, given a graph with costs, having no negative cost cycles, and a pair of vertices, finds the number of distinct walks of minimum cost between the given vertices.
